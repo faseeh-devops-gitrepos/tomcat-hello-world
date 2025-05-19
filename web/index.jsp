@@ -1,4 +1,4 @@
-<%@ page import="sample.HelloWorld" %>
+<%@ page import="sample.SAUDIARABIA" %>
 <%--
   Created by IntelliJ IDEA.
   User: chamilad
